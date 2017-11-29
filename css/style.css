@@ -56,8 +56,17 @@ p{
   height: 400px;
   float: left;
   margin-top: 50px;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   color:#008844;
+}
+.game_p{
+  width: 1366px;
+  height: 200px;
+  text-align: center;
+  font-size:24px;
+  color:#D26900;
+  float: left;
+
 }
 .game{
   width: 1366px;
