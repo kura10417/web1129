@@ -1,0 +1,93 @@
+body{
+  width: 1366;
+  height: 768;
+  background-color:#A6FFA6;
+  margin-left: 300px;
+}
+h1{
+  margin: auto;
+  margin-top: 20px;
+  float: left;
+  font-family: Gloria Hallelujah;
+  color:#008844;
+  font-size: 60px;
+}
+.site-nav{
+    width: 920px;
+    height: 50px;
+    background-color: #A6FFA6;
+    border-radius: 3px;
+    margin-top: 20px;
+    float: right;
+}
+.site-nav ul{
+margin: 100;
+padding-left: 70px;
+}
+.site-nav li{
+  list-style: none;
+  float: left;
+  color:#008844;
+  font-size: 24px;
+  margin: 16px 30px 16px 30px;
+  font-family:Roboto;
+}
+.banner{
+  width: 1366px;
+  height: 825px;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  float: left;
+
+}
+p{
+  text-align: center;
+  font-size:24px;
+}
+
+.article{
+  float: left;
+  color:#D26900;
+}
+.picture{
+  width:1366px;
+  height: 400px;
+  float: left;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color:#008844;
+}
+.game{
+  width: 1366px;
+  height: 600px;
+  float: left;
+}
+
+.col-md-6{
+  width: 300px;
+  height: 500px;
+  border-radius: 5px;
+  margin-right:300px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  float:left;
+}
+footer{
+  width: 1366px;
+  height: 200px;
+  background-color:#008844;
+  margin-bottom: 0px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  float: left;
+
+}
+.contact{
+  	color:#8CEA00;
+    text-align: center;
+}
+.icon{
+  text-align: center;
+}
